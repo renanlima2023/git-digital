@@ -3,3 +3,4 @@
 
 ## Mudanças
 *git pull
+*git fetch
